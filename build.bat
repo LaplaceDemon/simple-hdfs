@@ -1,0 +1,1 @@
+go build -o simple-hdfs.exe
